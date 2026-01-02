@@ -1,0 +1,65 @@
+* {
+  box-sizing: border-box;
+  font-family: system-ui, sans-serif;
+}
+
+body {
+  margin: 0;
+  background: #f4f7fb;
+}
+
+.app {
+  max-width: 900px;
+  margin: auto;
+  padding: 30px 20px;
+}
+
+h1 {
+  text-align: center;
+  color: #0077ff;
+}
+
+.subtitle {
+  text-align: center;
+  color: #555;
+  margin-bottom: 40px;
+}
+
+.section {
+  margin-bottom: 40px;
+}
+
+.section h2 {
+  color: #222;
+  border-left: 5px solid #0077ff;
+  padding-left: 10px;
+  margin-bottom: 20px;
+}
+
+.card {
+  background: #fff;
+  padding: 16px 20px;
+  margin-bottom: 14px;
+  border-radius: 10px;
+  box-shadow: 0 6px 14px rgba(0,0,0,0.08);
+}
+
+.question {
+  font-weight: 600;
+  margin-bottom: 6px;
+}
+
+.answer {
+  color: #444;
+  line-height: 1.5;
+}
+
+.example {
+  margin-top: 6px;
+  font-size: 16px;
+  color: #555;
+  background: #f0f6ff;
+  padding: 6px 10px;
+  border-left: 4px solid #0077ff;
+  border-radius: 4px;
+}
