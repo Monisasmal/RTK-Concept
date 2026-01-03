@@ -1,16 +1,26 @@
-# React + Vite
+# Redux Toolkit (RTK) – Concept
 
-This template provides a minimal setup to get React working in Vite with HMR and some ESLint rules.
+A React-based application that explains **all Redux Toolkit (RTK) concepts** in a clean, structured
+**Question & Answer format**, including **real-world examples** for better understanding.
 
-Currently, two official plugins are available:
+---
 
-- [@vitejs/plugin-react](https://github.com/vitejs/vite-plugin-react/blob/main/packages/plugin-react) uses [Babel](https://babeljs.io/) (or [oxc](https://oxc.rs) when used in [rolldown-vite](https://vite.dev/guide/rolldown)) for Fast Refresh
-- [@vitejs/plugin-react-swc](https://github.com/vitejs/vite-plugin-react/blob/main/packages/plugin-react-swc) uses [SWC](https://swc.rs/) for Fast Refresh
+This project is built for:
+- 📖 Learning Redux Toolkit
+- 🔁 Quick revision
+- 💼 Interview preparation
+- 🌐 Publishing as a knowledge app
+- RTK Projects
 
-## React Compiler
+----
 
-The React Compiler is not enabled on this template because of its impact on dev & build performances. To add it, see [this documentation](https://react.dev/learn/react-compiler/installation).
+## 🔥 Features
 
-## Expanding the ESLint configuration
+- ✅ Concept-wise RTK questions & answers
+- ✅ Beginner → Advanced coverage
+- ✅ Real-world examples (Async, Thunk, RTK Query, etc.)
+- ✅ Clean, readable UI using only `App.jsx` and `App.css`
+- ✅ Easy to deploy (Vercel / Netlify)
+- ✅ Perfect for interview revision
 
-If you are developing a production application, we recommend using TypeScript with type-aware lint rules enabled. Check out the [TS template](https://github.com/vitejs/vite/tree/main/packages/create-vite/template-react-ts) for information on how to integrate TypeScript and [`typescript-eslint`](https://typescript-eslint.io) in your project.
+---
