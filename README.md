@@ -41,9 +41,7 @@ This project is built for:
 
 ---
 
-**🙋‍♀️ Author**
-
-## Manaswini Sasmal
+## 🙋‍♀️ Author - Manaswini Sasmal
 
 📲 - 6370094643
 
